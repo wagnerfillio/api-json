@@ -3,7 +3,23 @@
     {
       "id": 1,
       "name": "Admin",
-      "queues": []
+      "queues": [
+         {
+           "id": 1,
+           "name": "Queue One",
+           "color": "#008b02"
+         },
+         {
+           "id": 2,
+           "name": "Queue Two",
+           "color": "#008b02"
+         },
+        {
+           "id": 3,
+           "name": "Queue Three",
+           "color": "#008b02"
+         }
+      ]
     },
     {
       "id": 2,
