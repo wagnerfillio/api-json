@@ -1,4 +1,4 @@
-{
+[{
   "users": [
     {
       "name": "Admin",
@@ -63,3 +63,4 @@
   "count": 4,
   "hasMore": true
 }
+ ]
