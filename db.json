@@ -6,58 +6,7 @@
          "email": "admin@gmail.com",
          "profile": "admin",
          "createdAt": "2021-02-24T01:01:41.000Z",
-         "queues": [
-            {
-               "id": 1,
-               "name": "Fila Um",
-               "color": "#008b02",
-               "UserQueue": {
-                  "userId": 3,
-                  "queueId": 1,
-                  "createdAt": "2021-03-24T23:44:18.000Z",
-                  "updatedAt": "2021-03-24T23:44:18.000Z"
-               }
-            },
-            {
-               "id": 2,
-               "name": "Fila Dois",
-               "color": "#fad0c3",
-               "UserQueue": {
-                  "userId": 3,
-                  "queueId": 2,
-                  "createdAt": "2021-03-13T03:30:32.000Z",
-                  "updatedAt": "2021-03-13T03:30:32.000Z"
-               }
-            }
-         ]
-      },
-      {
-         "name": "Layla de Souza",
-         "id": 2,
-         "email": "layla@gmail.com",
-         "profile": "users",
-         "createdAt": "2021-02-23T01:07:59.000Z",
          "queues": []
-      },
-      {
-         "name": "Wagner",
-         "id": 1,
-         "email": "wagner.fillio@gmail.com",
-         "profile": "suport",
-         "createdAt": "2021-02-18T02:31:49.000Z",
-         "queues": [
-            {
-               "id": 2,
-               "name": "Fila Dois",
-               "color": "#fad0c3",
-               "UserQueue": {
-                  "userId": 1,
-                  "queueId": 2,
-                  "createdAt": "2021-03-12T23:30:02.000Z",
-                  "updatedAt": "2021-03-12T23:30:02.000Z"
-               }
-            }
-         ]
       }
    ],
    "count": 4,
