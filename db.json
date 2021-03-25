@@ -1,5 +1,5 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
       "name": "Admin",
@@ -15,7 +15,5 @@
       "name": "Dev",
       "queues": []
     }
-  ],
-  "hasMore": false,
-  "count": 3
+  ]
 }
